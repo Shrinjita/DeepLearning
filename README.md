@@ -1,7 +1,4 @@
 # Deep Learning Lab Experiments
-
-Welcome to my collection of deep learning lab experiments, organized as individual Jupyter notebooks. Each notebook delves into a specific deep learning concept, covering essential topics like classification, neural networks, autoencoders, transfer learning, recurrent neural networks, and generative models. These hands-on experiments are designed to build practical experience with widely-used datasets and techniques in the field.
-
 ## Table of Contents
 - Lab 2: Classifier on Weather Dataset
 - Lab 3: Classifier on PIMA Diabetes Dataset
